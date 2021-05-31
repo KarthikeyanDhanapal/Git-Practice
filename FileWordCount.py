@@ -1,3 +1,4 @@
+#This program takes input as text file and prints the total word count
 import sys
 
 def word_count(inputfile):
